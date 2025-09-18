@@ -25,20 +25,21 @@ I'm Murilo Hernandes, a student at BYU Pathway interested in web development, so
   - The Calculator Master - Conversion Calculator for Cooking, and Units.
 
   ### Software Development Projects:
-    #### Python:
-    - Meal Price Calculator.
-    - Adventure Game.
-    - Word Puzzle Game - Wordle.
-    - Shopping Cart.
-    - Data Analysis
-    - Degree Planner Tool.
-    #### C#:
-    - Journal Keeping.
-    - Scripture Memorizer.
-    - Mindfulness Program.
-    - Eternal Quest Goal Tracker.
-    - Exercise Tracking.
-    - Maze Game.
+  
+  #### Python:
+  - Meal Price Calculator.
+  - Adventure Game.
+  - Word Puzzle Game - Wordle.
+  - Shopping Cart.
+  - Data Analysis
+  - Degree Planner Tool.
+  #### C#:
+  - Journal Keeping.
+  - Scripture Memorizer.
+  - Mindfulness Program.
+  - Eternal Quest Goal Tracker.
+  - Exercise Tracking.
+  - Maze Game.
     
 
 ## Let's Connect!
