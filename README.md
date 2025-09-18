@@ -48,6 +48,9 @@ I'm Murilo Hernandes, a student at BYU Pathway interested in web development, so
 
 Feel free to explore my repositories, and don't hesitate to reach out. Happy coding!
 
+![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilolhernandes&show_icons=true&theme=radical)
+
+
 <!--
 **murilolhernandes/murilolhernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
