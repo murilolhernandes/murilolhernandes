@@ -12,17 +12,19 @@ I'm Murilo Hernandes, a student at BYU Pathway interested in web development, so
 
 ## Technologies and Tools
 
-- Proficient in: C#, HTML, CSS, and JS.
-- Skills: Python, MySQL.
+- Proficient in: HTML, CSS, JS, node.js, and express.js.
+- Skills: Python, C#, MySQL, MongoDB, and Supabase.
 
 ## Projects:
   ### Web Development Projects:
   - Whitewater Rafting Website: River Runners.
   - Rugby World Cup Legends Website.
   - Chamber of Commerce Website: Rexburg Chamber of Commerce.
-  - Cookbook Corner Responsive Website.
+  - Cookbook Corner Responsive Website - Frontend only.
   - Sleep Outside - Outdoor Merchandise Responsive Website.
   - The Calculator Master - Conversion Calculator for Cooking, and Units.
+  - Cookbook Project - Dynamic Website with a DB and backend integration.
+  - Auto Shop Booking System API - Swagger UI with authentication.
 
   ### Software Development Projects:
   
