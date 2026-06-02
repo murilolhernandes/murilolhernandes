@@ -51,10 +51,8 @@ I'm Murilo Hernandes, a student at BYU Pathway interested in web development, so
 
 Feel free to explore my repositories, and don't hesitate to reach out. Happy coding!
 
-![Murilo's GitHub stats](https://github-readme-stats-mrfinsj1p-murilolhernandes-projects.vercel.app/api?username=murilolhernandes&show_icons=true&theme=radical)
-<!-- 
-![Murilo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=murilolhernandes&show_icons=true&theme=radical) 
--->
+![Murilo's GitHub stats](https://github-readme-stats-two-xi-40.vercel.app/api?username=murilolhernandes&show_icons=true&theme=radical)
+
 
 
 <!--
