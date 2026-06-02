@@ -6,25 +6,26 @@ I'm Murilo Hernandes, a student at BYU Pathway interested in web development, so
 
 ## About Me
 
-- I'm currently learning about MySQL and databases.
+- I'm currently learning about using C#.NET Blazor pages to make a fullstack website, along with Python Arcade library to make 2D games.
 - My goals are to become a full-stack developer with a strong knowledge of back-end supported servers.
 - Ask me about my web development projects.
 
 ## Technologies and Tools
 
-- Proficient in: HTML, CSS, JS, node.js, and express.js.
+- Proficient in: HTML, CSS, JS, Node.js, Express.js, Next.js, PostgresSQL.
 - Skills: Python, C#, MySQL, MongoDB, and Supabase.
 
 ## Projects:
   ### Web Development Projects:
-  - Whitewater Rafting Website: River Runners.
-  - Rugby World Cup Legends Website.
-  - Chamber of Commerce Website: Rexburg Chamber of Commerce.
-  - Cookbook Corner Responsive Website - Frontend only.
+  - Whitewater Rafting Website: River Runners - Static/Frontend.
+  - Rugby World Cup Legends Website - Static/Frontend.
+  - Chamber of Commerce Website: Rexburg Chamber of Commerce - Static/Frontend.
+  - Cookbook Corner Responsive Website - Static/Frontend.
   - Sleep Outside - Outdoor Merchandise Responsive Website.
   - The Calculator Master - Conversion Calculator for Cooking, and Units.
   - Cookbook Project - Dynamic Website with a DB and backend integration.
   - Auto Shop Booking System API - Swagger UI with authentication.
+  - Handcrafted Heaven - Fullstack with a DB and API endpoints.
 
   ### Software Development Projects:
   
@@ -50,7 +51,10 @@ I'm Murilo Hernandes, a student at BYU Pathway interested in web development, so
 
 Feel free to explore my repositories, and don't hesitate to reach out. Happy coding!
 
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilolhernandes&show_icons=true&theme=radical)
+![Murilo's GitHub stats](https://github-readme-stats-mrfinsj1p-murilolhernandes-projects.vercel.app/api?username=murilolhernandes&show_icons=true&theme=radical)
+<!-- 
+![Murilo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=murilolhernandes&show_icons=true&theme=radical) 
+-->
 
 
 <!--
